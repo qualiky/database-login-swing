@@ -8,4 +8,7 @@ Included default packages within the JAR:
 
 Built on IntelliJ.
 
-Please let me know if there are issues/confusion with the UI, I will re-edit it and re-create it.
+This is a sample student data management system that consists of authentication and data storage in Java Swing that uses SQLite database with JDBC.
+
+The external dependency libraries for database is included within this project. It can directly be downloaded and turned into .JAR file, or it can be run
+with IntelliJ IDEA as well.
